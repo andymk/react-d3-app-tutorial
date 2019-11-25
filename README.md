@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Tutorial using this link (https://www.freecodecamp.org/news/how-to-get-started-with-d3-and-react-c7da74a5bd9f/)
+
 ## Available Scripts
 
 In the project directory, you can run:
